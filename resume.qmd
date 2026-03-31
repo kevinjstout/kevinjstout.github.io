@@ -1,88 +1,95 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: "Kevin Stout's CV"
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+
+# Kevin Stout
+**Mathematics Student | Tutor | Academic Achiever**
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-<!-- | <a href="https://yourusername.github.io/datascience_portfolio/gh-pages/resume.pdf">Download PDF</a> -->
-| <a href="https://github.com/byuidatascience/datascience_portfolio/blob/gh-pages/resume.pdf">Download PDF</a>
+<a href="mailto:kevinjstout975@pdc.k12.wi.us">kevinjstout975@pdc.k12.wi.us</a>
+| (608) 306-0468
 </div>
 
+---
 
 ## Currently
 
-Standing on the shoulders of giants
+Pursuing a Bachelor of Science in Mathematics at **Brigham Young University - Idaho**.
 
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+---
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`Sept 2024 - Apr 2028`
+**Brigham Young University - Idaho**
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+* **GPA:** 4.0 (Freshman)
+* **Notable Coursework:** Multivariable Calculus, Linear Algebra
+* **Currently Enrolled:** Differential Equations w/ Lin Alg, Introduction to Analysis
 
-- Sizar
+`Sept 2020 - May 2024`
+**Prairie du Chien High School**
 
-`1667 - death`
-__Trinity College, Cambridge__
+* **Salutatorian**
+* **GPA:** 4.46 (Weighted) | 4.00 (Unweighted)
+* **ACT:** 34
+* **AP Scholar with Distinction:** AP Calculus BC (5), AP Statistics (5)
 
-- Fellow
+---
 
+## Work Experience
 
+`Jan 2025 - Present`
+**BYU-Idaho Math Tutoring Center** | *Rexburg, ID*
 
-## Awards
+* Facilitate learning in the on-campus math lab, assisting students with homework and exam preparation.
+* Provide one-on-one tutoring for mathematics courses ranging from arithmetic through calculus.
 
-`2012`
-President, *Royal Society*, London, UK
+`Feb 2021 - Aug 2024`
+**Library Page** | *Prairie du Chien Memorial Library, WI*
 
-Associate, *French Academy of Science*, Paris, France
+* Managed online catalog systems, including withdrawing media, retrieving information, and editing data.
+* Coordinated the planning and preparation for over 25 public events and programs.
+* Developed leadership and intrapersonal skills through hands-on practice in a dynamic work environment.
 
+---
 
+## Teaching & Leadership
 
-## Publications
+`Fall 2023 - 2024`
+**Math Teacher’s Assistant** | *High School*
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+* Supported two middle school math classes as a general teacher’s aid.
+* Gained insight into pedagogy by working with both cooperative and uncooperative student profiles.
 
-### Journals
+`Summer 2024`
+**Sunday School President and Teacher**
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+* Prepared and delivered bi-weekly lessons on various topics to adult groups.
+* Utilized lesson manuals and scriptures to facilitate engaging group discussions.
 
-`1669`
-Lectiones opticæ.
+---
 
-etc. etc. etc.
+## Achievements & Awards
 
-### Patents
+`2024`
+**First Place**, BYU-Idaho Integration Bee
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`2024`
+**Eagle Scout**, Boy Scouts of America
 
+* **Kiwanis Hall of Fame:** Excellence in Mathematics & Language (Chinese).
+* **John Philip Sousa Award:** Recipient for musical excellence.
+* **State Music Medals:** Received "Star 1" ratings in senior year for Flute Solo and Vocal Jazz Group performance.
 
-## Occupation
+---
 
-`1600`
-__Royal Mint__, London
+## Volunteer Experience
 
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+* **Eagle Scout Project:** Prepared lessons and taught the Chess merit badge.
+* **Community Service:** Flood assistance (sandbagging/cleanup) and online record transcription.
+* **Involvement:** National Honors Society, Student Council, and Church Service.
 
 
 

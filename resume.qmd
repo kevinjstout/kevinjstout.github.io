@@ -4,7 +4,7 @@ title: "Kevin Stout's CV"
 ---
 
 # Kevin Stout
-**Mathematics Student | Tutor | Academic Achiever**
+**Mathematics Student**
 
 <div id="webaddress">
 <a href="mailto:kevinjstout975@pdc.k12.wi.us">kevinjstout975@pdc.k12.wi.us</a>
